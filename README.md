@@ -17,7 +17,7 @@ Remember to:
 ```
 ### Step 2: Add the selectors
 Note: The syntax of a CSS comment is different to the syntax of an HTML comment.
-* Read through the HTML files and the CSS file and compare them to the images of the finished webpages to figure out how to replace the comments in the stylesheet with appropriate selectors. You may need to use class, element (type), or descendant selectors.<br>
+* Read through the HTML files and the CSS file and compare them to the images of the finished webpages to figure out how to replace the comments in the stylesheet with appropriate selectors. You may need to use class, element (type), or descendant selectors. There are many different correct ways that you could complete this exercise.<br>
 Pay attention to how CSS comments were used to identify different groups of style rules. Adding organizational comments helps to keep your CSS tidy and easier to read. Only replace the comments that are where a selector should be. Example: 
 ```
 /* all the paragraphs */ {
