@@ -39,14 +39,14 @@ p {
     * Add one internal (embedded) style rule
     * Add one inline style rule
 
-### Step 5: Format and Add comments 
+### Step 4: Format and Add comments 
 * Use the Prettier VSCode extension to format your code.
 * Add a few comments to explain your HTML and CSS code and highlight anything of interest.
 
-### Step 6: Check for errors
+### Step 5: Check for errors
 Use the VSCode HTMLHint extension and validate your code to make sure that it is correct(https://validator.w3.org/#validate_by_upload for HTML, https://jigsaw.w3.org/css-validator/ for CSS).
 
-### Step 7: Submit your work
+### Step 6: Submit your work
 1. Commit your changes.
 2. Push your changes to GitHub. 
 3. Submit in Brightspace to the "Unit 1 Exercises" assignment and follow the instructions. This is your last exercise of the unit:
