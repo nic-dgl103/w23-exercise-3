@@ -63,7 +63,7 @@ section, header, nav ul, blockquote {
   text-align: center;
   clear: right;
 }
-/* the heading inside the call-to-action group*/ {
+/* the heading in the call-to-action group */ {
   color: white;
 }
 /* ------- FOOTER ------- */
@@ -106,7 +106,7 @@ section, header, nav ul, blockquote {
 /* the quotes */ {
   line-height: 1.6;
 }
-/* the paragraphs in the quote group */ {
+/* the paragraphs in the quote groups */ {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 14px;
@@ -138,7 +138,7 @@ section, header, nav ul, blockquote {
   text-align: center;
   width: 50%;
 }
-/* the images*/ {
+/* the images */ {
   border-radius: 8px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   width: 100%;
