@@ -21,10 +21,10 @@ section, header, nav ul, blockquote {
 /* the header group of content */ {
   position: relative;
 }
-/* the logo */ {
+/* the logo in the header */ {
   margin: 20px;
 }
-/* the call-to-action */ {
+/* the call-to-action in the header */ {
   position: absolute;
   right: 0px;
   top: 50%;
@@ -43,19 +43,19 @@ section, header, nav ul, blockquote {
   background-color: #5ca92c;
   color: white;
 }
-/* the list */ {
+/* the list in the navigation */ {
   list-style-type: none;
 }
-/* the list items */ {
+/* the list items in the navigation */ {
   display: inline-block;
   padding: 20px 40px;
 }
-/* the anchor */ {
+/* the anchor in the navigation */ {
   color: #e2ffbf;
 }
 
 /* ------- CALL TO ACTION ------- */
-/* the call-to-action group of content */ {
+/* the call-to-action group of content at the bottom of the page */ {
   background-color: #5ca92c;
   width: 100%;
   padding: 20px;
@@ -63,7 +63,7 @@ section, header, nav ul, blockquote {
   text-align: center;
   clear: right;
 }
-/* the heading */ {
+/* the heading inside the call-to-action group*/ {
   color: white;
 }
 /* ------- FOOTER ------- */
@@ -85,7 +85,7 @@ section, header, nav ul, blockquote {
   width: 100%;
   text-align: center;
 }
-/* the heading */ {
+/* the heading in the hero group */ {
   color: white;
   font-size: 48px;
 }
@@ -106,7 +106,7 @@ section, header, nav ul, blockquote {
 /* the quotes */ {
   line-height: 1.6;
 }
-/* the paragraphs */ {
+/* the paragraphs in the quote group */ {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 14px;
@@ -122,7 +122,7 @@ section, header, nav ul, blockquote {
   background-color: lightgray;
   margin: 40px auto;
 }
-/* the figure element inside the section about the founder */ {
+/* the figure element in the section about the founder */ {
   float: left;
   text-align: center;
   width: 50%;
@@ -133,12 +133,12 @@ section, header, nav ul, blockquote {
   overflow: hidden;
   background-color: lightgray;
 }
-/* the figure element inside the section about the team */ {
+/* the figure element in the section about the team */ {
   float: right;
   text-align: center;
   width: 50%;
 }
-/* the images */ {
+/* the images*/ {
   border-radius: 8px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   width: 100%;
